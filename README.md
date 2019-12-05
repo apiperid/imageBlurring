@@ -14,5 +14,6 @@ Very simple and useful program for covering faces to an image (GDPR).
 
 You can run image blurring in two ways :
 <ul>
-  <li>You can the DIP.m file alone as a matlab script<li>
+  <li>You can run the DIP.m file alone as a matlab script.</li>
+  <li>You can run both imageBlurring.fig and imageBlurring.m and use the GUI provided.
 </ul>
